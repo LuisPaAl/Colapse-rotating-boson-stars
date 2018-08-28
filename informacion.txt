@@ -1,0 +1,29 @@
+Initial_data_l_x_n_50_ui_y; "x" es el valor de l y "y" dirá si se encuentra a la izquierda o a la derecha del máximo.
+
+Las columnas de este archivo están organizadas como sigue:
+
+1. Valor de r, 2. Valor radial del campo escalar, 3. Valor radial de la derivada del campo escalar, 4. Valor de a, 5. Valor de alpha con alpha(0)=1, 6. Valor de alpha con alpha(inf)=1, 7. Valor de la masa total para diferentes rs  
+
+
+Initial_data_l_x_n_50_ui_y_ext; Se guardan los datos para cuando ya extendimos el dominio de nuestra solución 
+
+Las columnas de este archivo están organizadas como sigue:
+
+1. Valor de r, 2. Valor radial del campo escalar, 3. Valor de su derivada, 4. valor de a, 5. Valor de alpha con alpha(inf)=1
+
+l = 0; right
+
+Densidad central = 4.199999999999999845e-1
+Valor computacional de omega =  1.462710042501864649
+
+l = 1; left
+
+Densidad central = 1.050000000000000065e-02
+Valor computacional de omega = 1.080263204639777541e+00
+
+l = 1; right
+
+Densidad central = 4.050000000000000128e-02
+Valor computacional de omega = 1.221795421156457451
+
+
