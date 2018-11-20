@@ -1,0 +1,23 @@
+Initial_data_l_x_end_50_ui_y_dr05; "x" es el valor de l y "y" dirá si se encuentra a la izquierda o a la derecha del máximo.
+
+Las columnas de este archivo están organizadas como sigue:
+
+1. Valor de r, 2. Valor radial del campo escalar, 3. Valor radial de la derivada del campo escalar, 4. Valor de a, 5. Valor de alpha con alpha(0)=1, 6. Valor de alpha con alpha(inf)=1, 7. Valor de la masa total para diferentes rs  
+
+
+Initial_data_l_x_end_50_ui_y_ext_dr05; Se guardan los datos para cuando ya extendimos el dominio de nuestra solución 
+
+Las columnas de este archivo están organizadas como sigue:
+
+1. Valor de r, 2. Valor radial del campo escalar, 3. Valor de su derivada, 4. valor de a, 5. Valor de alpha con alpha(inf)=1
+
+
+Ahora se enlistan los parámetros de las soluciones que utilicé:
+
+Valor de L,  left/right,   Valor central del campo,    Valor computacional de omega
+
+0	right	4.199999999999999845e-01	1.462800090219076310e+00
+1	left	1.050000000000000065e-02	1.080264090560376644e+00
+1	right	4.050000000000000128e-02	1.221802152916779960e+00
+2	left	1.599860263993569233e-03	1.121315517248149263e+00
+2	right	5.800000000000000468e-03	1.246481276492144019e+00
